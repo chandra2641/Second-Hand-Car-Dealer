@@ -13,10 +13,12 @@ Hello Viewers,
 Overview of the second-hand car market (local, national, global)
 Key trends driving market growth (e.g., affordability, eco-friendliness, depreciation rates)
 Competitive landscape (major competitors, pricing strategies)
+
  > Customer Analysis
 Demographics (age, income level, location, buying preferences)
 Customer behavior (purchasing patterns, decision factors like brand, model, fuel type, etc.)
 Customer needs and pain points (warranty concerns, financing options, after-sales service)
+ 
  >  Inventory Analysis
 Best-selling car brands and models
 Age and condition of vehicles sold (mileage, year of manufacture, service history)
